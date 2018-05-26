@@ -6,12 +6,19 @@
   text-align: center;
   color: black;
   background: url("../img/3.jpg") no-repeat bottom center scroll;
+  opacity: 0.6;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
+.br{
+border-radius: 90%;
+}
+
+
 .contact-bg {
   color: white;
  background: url("../img/14.jpg") no-repeat center center scroll;
